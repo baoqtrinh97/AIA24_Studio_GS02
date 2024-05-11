@@ -127,7 +127,8 @@ alternatively clone the repo:
 git clone https://github.com/AUTHORNAME/PROJECTNAME.git
 ```
 ## Other Material
-<a href="https://miro.com/app/board/uXjVKR3J9ow=" target="_parent">MIRO</a>
+<a href="https://miro.com/app/board/uXjVKR3J9ow=" target="_parent">[MIRO]</a>
+<a href="https://drive.google.com/drive/folders/1WIqxZqnGlNpIgN--6t1wEWU5nggu6WcL?usp=drive_link" target="_parent">[Dataset]</a>
 
 
 ### Prerequisites
