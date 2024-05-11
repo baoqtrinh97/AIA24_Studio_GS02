@@ -191,7 +191,6 @@ Deeksha Ko - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
 <br />
 <div style="width:100;" width=100%>
     <div>
-        <p>Bao Trinh, Yi-Chen Lu, Farida Fidvi, Deeksha Ko</p>
         <a href="https://iaac.net">
             <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
         </a>
