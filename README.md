@@ -20,7 +20,7 @@
   <h3 align="center"> PROJECTNAME </h3>
 
   <p align="center" style="font-weight: bold;">
-    IAAC: AI in Urbanism 2022-23
+    IAAC: AI in Urbanism 2023-24
     <br />
     <a href="https://colab.research.google.com/github/GITHUBNAME/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb">View Demo</a>
     ·
@@ -55,7 +55,7 @@
     <li><a href="#future-work">Future work</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#team">Team</a></li>
+    <li><a href="#team">Team</a>Bao Trinh, Yi-Chen Lu, Farida Fidvi, Deeksha Ko</li>
     <ul>
         <li><a href="#supervisors">Supervisors</a></li>
       </ul>
@@ -126,6 +126,9 @@ alternatively clone the repo:
 ```
 git clone https://github.com/AUTHORNAME/PROJECTNAME.git
 ```
+## Other Material
+<a href="https://miro.com/app/board/uXjVKR3J9ow=" target="_parent">MIRO</a>
+
 
 ### Prerequisites
 None
