@@ -176,10 +176,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Bao Trinh - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url]
-Yi-Chen Lu, - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url]
-Farida Fidvi - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url]
-Deeksha Ko - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url]
+Bao Trinh - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url] \
+Yi-Chen Lu - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url] \
+Farida Fidvi - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url] \
+Deeksha Ko - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
